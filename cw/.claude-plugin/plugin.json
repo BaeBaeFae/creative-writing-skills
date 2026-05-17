@@ -1,0 +1,9 @@
+{
+  "name": "creative-writing-skills",
+  "version": "0.2.0",
+  "description": "Composable agents and skills for creative writing projects. The muse agent is the primary entry point — use it as your session agent (--agent creative-writing-skills:muse) to get a creative partner that brainstorms, drafts, critiques, and maintains your story's knowledge base.",
+  "author": {
+    "name": "Jimmy Yao",
+    "email": "dev.jimm.py@gmail.com"
+  }
+}
